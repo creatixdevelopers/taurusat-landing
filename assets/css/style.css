@@ -183,19 +183,19 @@ p {
 }
 
 *::-moz-selection {
-    background: #7127ea;
+    background: #f5b041;
     color: #ffffff;
     text-shadow: none;
 }
 
 ::-moz-selection {
-    background: #7127ea;
+    background: #f5b041;
     color: #ffffff;
     text-shadow: none;
 }
 
 ::selection {
-    background: #7127ea;
+    background: #f5b041;
     color: #ffffff;
     text-shadow: none;
 }
@@ -547,7 +547,7 @@ p {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
-    color: #1c7df8;
+    color: #e87121;
 }
 
 .w-btn-white {
@@ -733,17 +733,17 @@ p {
 }
 
 .w-btn-blue {
-    border-color: #2f80ed;
-    background: #2f80ed;
+    border-color: #f5b041;
+    background: #f5b041;
 }
 
 .w-btn-blue-header {
     height: 40px;
     padding: 0 20px;
-    line-height: 40px;
-    background: rgba(47, 128, 237, 0.08);
-    color: #2f80ed;
-    border: none;
+    line-height: 36px;
+    background: #f5b041;
+    color: white;
+    border: 2px solid #f5b041;
 }
 
 .w-btn-blue::after {
@@ -751,21 +751,22 @@ p {
 }
 
 .w-btn-blue:hover {
-    color: #2f80ed;
+    color: #f5b041;
+    border-color: #f5b041;
 }
 
 .w-btn-blue-2 {
     background: #ffffff;
-    color: #2f80ed;
-    border-color: #2f80ed;
+    color: #222222;
+    border-color: #666666;
 }
 
 .w-btn-blue-2::after {
-    background: #2f80ed;
+    background: #222222;
 }
 
 .w-btn-blue-2:hover {
-    border-color: #2f80ed;
+    border-color: #222222;
     color: #ffffff;
 }
 
@@ -1474,7 +1475,7 @@ p {
 }
 
 .header__border {
-    border-top: 4px solid #f385df;
+    border-top: 4px solid #e87121;
 }
 
 .header__border-bottom {
@@ -2014,15 +2015,15 @@ p {
 }
 
 .sidebar-toggle-btn-2 .line {
-    background-color: #2f80ed;
+    background-color: #e87121;
 }
 
 .sidebar-toggle-btn-2 .line {
-    background-color: #5d41c2;
+    background-color: #e87121;
 }
 
 .sidebar-toggle-btn-5 .line {
-    background-color: #1c7df8;
+    background-color: #e87121;
 }
 
 .body-overlay {
@@ -2866,7 +2867,7 @@ p {
 }
 
 .hero__shape-2 img.hero-2-triangle {
-    left: 2%;
+    right: 2%;
     top: 12%;
     -webkit-animation: hero-triangle-2 5s linear infinite;
     -moz-animation: hero-triangle-2 5s linear infinite;
@@ -3506,7 +3507,7 @@ p {
 
 @media (max-width: 575px) {
     .hero__thumb-inner img.hero-2-thumb-sm-3 {
-        display: none;
+        right: 10px;
     }
 }
 
@@ -4280,7 +4281,7 @@ p {
     right: 0;
     top: 10px;
     border-radius: 20px;
-    background: #7127ea;
+    background: #e87121;
     height: 50%;
     z-index: -1;
 }
