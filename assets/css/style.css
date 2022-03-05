@@ -566,18 +566,18 @@ p {
 }
 
 .w-btn-white-2 {
-    color: #2f80ed;
+    color: #e87121;
     height: 54px;
     line-height: 50px;
     padding: 0 38px;
 }
 
 .w-btn-white-2::after {
-    background: #2f80ed;
+    background: #e87121;
 }
 
 .w-btn-white-2:hover {
-    border-color: #2f80ed;
+    border-color: #e87121;
     color: #ffffff;
 }
 
@@ -652,7 +652,7 @@ p {
 }
 
 .w-btn-8 {
-    color: #2f80ed;
+    color: #e87121;
     background: #ffffff;
     border-color: #ffffff;
     height: 46px;
@@ -661,11 +661,11 @@ p {
 }
 
 .w-btn-8::after {
-    background: #2f80ed;
+    background: #e87121;
 }
 
 .w-btn-8:hover {
-    border-color: #2f80ed;
+    border-color: #e87121;
     color: #ffffff;
 }
 
@@ -978,7 +978,7 @@ p {
     border-radius: 12px;
     margin-bottom: 19px;
     text-transform: capitalize;
-    background: #2f80ed;
+    background: #e87121;
     color: #ffffff;
 }
 
@@ -1217,7 +1217,7 @@ p {
 }
 
 .gradient-blue-2 {
-    background: linear-gradient(90deg, #07408e 20%, #2f80ed 100%);
+    background: linear-gradient(90deg, #07408e 20%, #e87121 100%);
 }
 
 .gradient-yellow {
@@ -1767,15 +1767,15 @@ p {
 }
 
 .main-menu-2 ul li:hover > a {
-    color: #2f80ed;
+    color: #e87121;
 }
 
 .main-menu-2 ul li:hover > a::after {
-    color: #2f80ed;
+    color: #e87121;
 }
 
 .main-menu-2 ul li .submenu li a::before {
-    background: #2f80ed;
+    background: #e87121;
 }
 
 .main-menu-3 ul li:not(:last-child) {
@@ -2205,7 +2205,7 @@ p {
 }
 
 .mobile-menu-2.mean-container .mean-nav ul li a:hover {
-    color: #2f80ed;
+    color: #e87121;
 }
 
 .mobile-menu-3.mean-container .mean-nav ul li a:hover {
@@ -4291,7 +4291,7 @@ p {
 }
 
 .services__inner-2::before {
-    background: #2f80ed;
+    background: #e87121;
 }
 
 .services__inner-2:hover::before, .services__inner-2.active::before {
@@ -4327,7 +4327,7 @@ p {
 }
 
 .services__title a:hover {
-    color: #7127ea;
+    color: #e87121;
 }
 
 .services__title-2 {
@@ -4337,7 +4337,7 @@ p {
 }
 
 .services__title-2 a:hover {
-    color: #2f80ed;
+    color: #e87121;
 }
 
 .services__title-3 {
@@ -4852,11 +4852,11 @@ p {
 
 .about__wrapper ul li:hover {
     padding-left: 20px;
-    color: #7127ea;
+    color: #e87121;
 }
 
 .about__wrapper ul li:hover::after {
-    color: #7127ea;
+    color: #e87121;
 }
 
 .about__thumb {
@@ -4877,11 +4877,6 @@ p {
 }
 
 .about__thumb img {
-    -webkit-box-shadow: 0px 20px 20px 0px rgba(86, 5, 46, 0.2);
-    -moz-box-shadow: 0px 20px 20px 0px rgba(86, 5, 46, 0.2);
-    box-shadow: 0px 20px 20px 0px rgba(86, 5, 46, 0.2);
-    -webkit-border-radius: 20px 20px 0 0;
-    -moz-border-radius: 20px 20px 0 0;
     border-radius: 20px 20px 0 0;
 }
 
@@ -6248,7 +6243,7 @@ p {
 }
 
 .testimonial__slider .owl-dots .owl-dot.active {
-    background: #7127ea;
+    background: #e87121;
 }
 
 .testimonial__slider .owl-stage-outer {
@@ -6318,7 +6313,7 @@ p {
 }
 
 .testimonial__slider-4 .owl-dots .owl-dot.active {
-    background: #6c63ff;
+    background: #e87121;
 }
 
 .testimonial__slider-5 .owl-stage-outer {
@@ -7520,7 +7515,7 @@ p {
 }
 
 .team__slider .owl-dots .owl-dot.active {
-    background: #2f80ed;
+    background: #e87121;
 }
 
 .team__item:hover .team__thumb::after {
@@ -7583,7 +7578,7 @@ p {
 }
 
 .team__title a:hover {
-    color: #2f80ed;
+    color: #e87121;
 }
 
 .team__position {
@@ -7620,7 +7615,7 @@ p {
 }
 
 .team__social ul li a:hover {
-    color: #2f80ed;
+    color: #e87121;
 }
 
 .team__shape img {
@@ -7876,7 +7871,7 @@ p {
 /*----------------------------------------*/
 .faq__wrapper {
     padding: 0 40px;
-    border-top: 3px solid #2f80ed;
+    border-top: 3px solid #e87121;
     box-shadow: 0px 30px 70px 0px rgba(11, 6, 70, 0.08), inset 0px 3px 0px 0px rgba(47, 128, 237, 0.004);
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
@@ -7942,11 +7937,11 @@ p {
 }
 
 .faq__wrapper .accordion-item .accordion-header .accordion-button:hover {
-    color: #2f80ed;
+    color: #e87121;
 }
 
 .faq__wrapper .accordion-item .accordion-header .accordion-button:hover::after {
-    color: #2f80ed;
+    color: #e87121;
 }
 
 .faq__wrapper .accordion-item .accordion-body {
@@ -8113,7 +8108,7 @@ p {
 }
 
 .blog__meta span.tag {
-    color: #2f80ed;
+    color: #e87121;
 }
 
 .blog__meta span.tag:hover {
@@ -8238,7 +8233,7 @@ p {
 }
 
 .blog__title a:hover {
-    color: #2f80ed;
+    color: #e87121;
 }
 
 .blog__title-3 {
@@ -11182,11 +11177,11 @@ p {
 }
 
 .footer__link-2 ul li a::after {
-    background: #2f80ed;
+    background: #e87121;
 }
 
 .footer__link-2 ul li a:hover {
-    color: #2f80ed;
+    color: #e87121;
 }
 
 .footer__link-3 ul li a {
@@ -11248,8 +11243,8 @@ p {
 }
 
 .footer__social-2 ul li a:hover {
-    background: #2f80ed;
-    border-color: #2f80ed;
+    background: #e87121;
+    border-color: #e87121;
 }
 
 .footer__social-3 ul li a {
@@ -11311,7 +11306,7 @@ p {
 }
 
 .footer__copyright-wrapper-2 p a {
-    color: #2f80ed;
+    color: #e87121;
 }
 
 .footer__copyright-wrapper-3 p {

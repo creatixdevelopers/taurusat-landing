@@ -126,7 +126,7 @@
 		items:6,
 		navText:['<button><i class="fa fa-angle-left"></i>PREV</button>','<button>NEXT<i class="fa fa-angle-right"></i></button>'],
 		nav:false,
-		dots:true,
+		dots:false,
 		responsive:{
 			0:{
 				items:1

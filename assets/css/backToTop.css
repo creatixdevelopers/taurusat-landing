@@ -7,7 +7,7 @@
     cursor: pointer;
     display: block;
     border-radius: 50px;
-    box-shadow: inset 0 0 0 2px rgba(95, 58, 252, 0.2);
+    box-shadow: inset 0 0 0 2px rgba(232, 113, 33, 0.2);
     z-index: 99;
     opacity: 0;
     visibility: hidden;
@@ -29,7 +29,7 @@
     text-align: center;
     line-height: 46px;
     font-size: 20px;
-    color: #5f3afc;
+    color: #e87121;
     left: 0;
     top: 0;
     height: 46px;
@@ -47,7 +47,7 @@
 }
 
 .progress-wrap svg.progress-circle path {
-    stroke: #5f3afc;
+    stroke: #e87121;
     stroke-width: 4;
     box-sizing: border-box;
     -webkit-transition: all 200ms linear;
