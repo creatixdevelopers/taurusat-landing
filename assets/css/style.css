@@ -4226,7 +4226,18 @@ p {
     box-shadow: 0px 30px 70px 0px rgba(11, 6, 70, 0.08);
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
-    border-radius: 6px;
+    border-radius: 20px;
+}
+
+.services__item-4:hover {
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1.05);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1.05);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1.05);
+    transition: all 200ms ease-in;
+    transform: scale(1.05);
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -4408,6 +4419,7 @@ p {
     font-size: 15px;
     line-height: 22px;
     margin-bottom: 0;
+    height: 5rem;
 }
 
 .services__content-2 p {
@@ -4889,7 +4901,7 @@ p {
 .about__thumb img.about-sm {
     position: absolute;
     bottom: 115px;
-    left: -90px;
+    left: -60px;
     -webkit-box-shadow: 0px 20px 20px 0px rgba(86, 5, 46, 0.2);
     -moz-box-shadow: 0px 20px 20px 0px rgba(86, 5, 46, 0.2);
     box-shadow: 0px 20px 20px 0px rgba(86, 5, 46, 0.2);
@@ -6799,7 +6811,7 @@ p {
 }
 
 .features__tab .nav-tabs .nav-item .nav-link {
-    padding: 30px 25px;
+    padding: 20px 30px;
     border: none;
     background: #ffffff;
     width: 100%;
@@ -6933,8 +6945,8 @@ p {
 
 .features__thumb-inner img.fea-sm {
     position: absolute;
-    left: 125px;
-    bottom: -50px;
+    left: 150px;
+    top: 50px;
     -webkit-animation: features-thumb-sm-animation 4s linear infinite alternate;
     -moz-animation: features-thumb-sm-animation 4s linear infinite alternate;
     -o-animation: features-thumb-sm-animation 4s linear infinite alternate;
