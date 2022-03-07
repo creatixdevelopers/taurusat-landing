@@ -566,18 +566,18 @@ p {
 }
 
 .w-btn-white-2 {
-    color: #e87121;
+    color: #000000;
     height: 54px;
     line-height: 50px;
     padding: 0 38px;
 }
 
 .w-btn-white-2::after {
-    background: #e87121;
+    background: #f5b041;
 }
 
 .w-btn-white-2:hover {
-    border-color: #e87121;
+    border-color: #f5b041;
     color: #ffffff;
 }
 
