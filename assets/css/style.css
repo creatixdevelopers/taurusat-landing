@@ -1217,7 +1217,7 @@ p {
 }
 
 .gradient-blue-2 {
-    background: linear-gradient(90deg, #07408e 20%, #e87121 100%);
+    background: linear-gradient(90deg, #07408e 20%, #2f80ed 100%);
 }
 
 .gradient-yellow {
@@ -1308,7 +1308,7 @@ p {
     background: transparent;
     border-left: 12px solid transparent;
     border-right: 12px solid transparent;
-    border-bottom: 12px solid #30edfe;
+    border-bottom: 12px solid #e87121;
     top: -12px;
     right: -12px;
 }
@@ -7224,7 +7224,7 @@ p {
 
 .cta__title {
     color: #ffffff;
-    font-size: 40px;
+    font-size: 38px;
     font-weight: 700;
     line-height: 1.2;
     margin-bottom: 0;
@@ -9304,8 +9304,7 @@ p {
 
 @media (max-width: 575px) {
     .promotion__thumb-4 img.promotion-4-circle {
-        width: 100%;
-        right: 0;
+        display: none;
     }
 }
 

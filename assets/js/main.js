@@ -89,7 +89,7 @@
 		autoplay:true,
 		autoplayTimeout:3000,
 		smartSpeed:500,
-		items:6,
+		items:3,
 		navText:['<button><i class="fa fa-angle-left"></i>PREV</button>','<button>NEXT<i class="fa fa-angle-right"></i></button>'],
 		nav:false,
 		dots:true,
@@ -123,28 +123,34 @@
 		autoplay:true,
 		autoplayTimeout:3000,
 		smartSpeed:500,
-		items:6,
+		items:3,
 		navText:['<button><i class="fa fa-angle-left"></i>PREV</button>','<button>NEXT<i class="fa fa-angle-right"></i></button>'],
 		nav:false,
 		dots:false,
 		responsive:{
 			0:{
-				items:1
+				items:1,
+				autoplay:true
 			},
 			576:{
-				items:1
+				items:1,
+				autoplay:true
 			},
 			767:{
-				items:2
+				items:2,
+				autoplay:true
 			},
 			992:{
-				items:2
+				items:2,
+				autoplay:true
 			},
 			1200:{
-				items:3
+				items:3,
+				autoplay:false
 			},
 			1600:{
-				items:3
+				items:3,
+				autoplay:false
 			}
 		}
 	});
@@ -157,7 +163,7 @@
 		autoplay:true,
 		autoplayTimeout:3000,
 		smartSpeed:500,
-		items:6,
+		items:3,
 		navText:['<button><i class="fa fa-angle-left"></i>PREV</button>','<button>NEXT<i class="fa fa-angle-right"></i></button>'],
 		nav:false,
 		dots:true,
