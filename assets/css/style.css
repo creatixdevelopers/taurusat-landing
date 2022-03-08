@@ -189,6 +189,25 @@ p {
     text-shadow: none;
 }
 
+section {
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    section {
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+}
+
+@media (max-width: 575px) {
+    section {
+        padding-top: 18px;
+        padding-bottom: 18px;
+    }
+}
+
 /*--
     - Input Placeholder
 -----------------------------------------*/

@@ -53,6 +53,10 @@
         $(".sidebar__area").removeClass("sidebar-opened");
         $(".body-overlay").removeClass("opened");
     });
+    $(".sidebar_close-btn").on("click", function () {
+        $(".sidebar__area").removeClass("sidebar-opened");
+        $(".body-overlay").removeClass("opened");
+    });
 
 
     ////////////////////////////////////////////////////
